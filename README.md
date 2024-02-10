@@ -13,22 +13,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/>
 </p>
-
-## I'm currently learning:</h3>
-<p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="goLang" width="35" height="35"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="35" height="35"/>
-</p>
-
-## Follow me:</h3>
-<p>
-  <a href="https://www.linkedin.com/in/joseosorioherrera/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="35" width="35"/>
-  </a>
-  <a href="https://www.frontendmentor.io/profile/Arcanvs" target="_blank">
-    <img align="center" src="https://www.frontendmentor.io/static/images/logo-mobile.svg" alt="frontendmentor" height="35" width="35"/>
-  </a>
-  <a href="https://open.spotify.com/user/jose.osorio.herrera?si=6d37f8d5bd514837" target="_blank">
-    <img align="center" src="https://cdn.cdnlogo.com/logos/s/89/spotify.svg" alt="spotify" height="35" width="35"/>
-  </a>
-</p>
